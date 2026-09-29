@@ -24,7 +24,11 @@ Build the selective-scan CUDA extension according to `VMamba/kernels/selective_s
 
 ### 2. Data Preparation
 
-The code has interfaces for **CheXpert Plus**, **IU X-Ray**, and **MIMIC-CXR**. Supply images and an annotation JSON with `train`, `val`, and `test` lists. The datasets, splits, labels, weights, and evidence files are not distributed here.
+We use three chest X-ray datasets: **CheXpert Plus**, **MIMIC-CXR**, and **IU X-Ray**.
+
+- **CheXpert Plus**: Available from [Stanford AIMI](https://aimi.stanford.edu/datasets/chexpert-plus).
+- **MIMIC-CXR**: Please request access from [PhysioNet](https://physionet.org/content/mimic-cxr/2.0.0/).
+- **IU X-Ray**: Available from [OpenI](https://openi.nlm.nih.gov/).
 
 For Stage 2, provide:
 
