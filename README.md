@@ -1,12 +1,4 @@
-# <center> Homogeneous Semantic Alignment and Hierarchical Expert Routing for Radiology Report Generation
 
-<div align="center">
-
-**HSA-HER**
-
-</div>
-
-HSA-HER is a two-stage framework for chest X-ray report generation. Stage 1 uses VMamba and Bio_ClinicalBERT to learn disease-related visual representations through image-text contrastive learning, multi-label classification, and a homogeneous alignment module. Stage 2 combines visual features, precomputed local entity features, and offline retrieved training-report features through hierarchical expert routing, then conditions a frozen language model to generate a report.
 
 ## Release Status
 
