@@ -1,0 +1,188 @@
+VMamba/classification/config.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/config.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/data/build.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/data/build.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/data/cached_image_folder.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/data/cached_image_folder.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/data/data_simmim_ft.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/data/data_simmim_ft.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/data/data_simmim_pt.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/data/data_simmim_pt.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/data/samplers.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/data/samplers.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/data/zipreader.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/data/zipreader.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/main.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/main.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/utils/logger.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/utils/logger.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/utils/lr_scheduler.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/utils/lr_scheduler.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/utils/optimizer.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/utils/optimizer.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/classification/utils/utils.py
+# Copyright (c) 2021 Microsoft
+
+VMamba/classification/utils/utils.py
+# Licensed under The MIT License [see LICENSE for details]
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cus/selective_scan.cpp
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cus/selective_scan_bwd_kernel.cuh
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cus/selective_scan_core_bwd.cu
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cus/selective_scan_core_fwd.cu
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cus/selective_scan_fwd_kernel.cuh
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cusoflex/selective_scan_bwd_kernel_oflex.cuh
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cusoflex/selective_scan_core_bwd.cu
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cusoflex/selective_scan_core_fwd.cu
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cusoflex/selective_scan_fwd_kernel_oflex.cuh
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cusoflex/selective_scan_oflex.cpp
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/cusoflex/selective_scan_oflex.h
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/reverse_scan.cuh
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/selective_scan.h
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/selective_scan_common.h
+/******************************************************************************
+ * Copyright (c) 2023, Tri Dao.
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/csrc/selective_scan/uninitialized_copy.cuh
+/******************************************************************************
+ * Copyright (c) 2011-2022, NVIDIA CORPORATION.  All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions are met:
+ *     * Redistributions of source code must retain the above copyright
+ *       notice, this list of conditions and the following disclaimer.
+ *     * Redistributions in binary form must reproduce the above copyright
+ *       notice, this list of conditions and the following disclaimer in the
+ *       documentation and/or other materials provided with the distribution.
+ *     * Neither the name of the NVIDIA CORPORATION nor the
+ *       names of its contributors may be used to endorse or promote products
+ *       derived from this software without specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED. IN NO EVENT SHALL NVIDIA CORPORATION BE LIABLE FOR ANY
+ * DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ *
+ ******************************************************************************/
+
+VMamba/kernels/selective_scan/setup.py
+# Copyright (c) 2023, Albert Gu, Tri Dao.
+
+VMamba/kernels/selective_scan/test_selective_scan.py
+# Copyright (C) 2023, Tri Dao, Albert Gu.
+
+VMamba/kernels/selective_scan/test_selective_scan_easy.py
+# Copyright (C) 2023, Tri Dao, Albert Gu.
+
+VMamba/kernels/selective_scan/test_selective_scan_speed.py
+# Copyright (C) 2023, Tri Dao, Albert Gu.
+
+evalcap/bleu/bleu_scorer.py
+# Copyright (c) 2004-2006 University of Maryland. All rights
+
+evalcap/bleu/bleu_scorer.py
+# reserved. Do not redistribute without permission from the
+

@@ -1,0 +1,26 @@
+# Local data and generated outputs
+data/
+save/
+output/
+logs/
+results/
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.log
+
+# Python and native build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+*.so
+*.pyd
+.ninja_deps
+.ninja_log
+
+# Local duplicate of the VMamba backbone
+VMamba/classification/models/vmamba copy.py
